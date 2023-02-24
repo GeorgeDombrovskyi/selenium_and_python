@@ -1,4 +1,4 @@
-# Some helpful information
+# Some helpful information.
 
 ### Link to download the Selenium (in terminal) <br>
     we need install this in  folder with our code files
@@ -14,7 +14,7 @@
 
 ### If have a problem like <br>
 "Error: “chromedriver” cannot be opened because the developer cannot be verified." <br>
-(I tried this on MacOS - was be ok)
+(I tried this on MacOS - was be ok.)
 
         > Open terminal
             1.Navigate to path where your chromedriver file is located

@@ -2,7 +2,7 @@ from selenium import webdriver
 import time
 
 
-browser = webdriver.Chrome()
+browser = webdriver.Chrome() 
 
 link = "https://rozetka.com.ua/"
 

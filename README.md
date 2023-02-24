@@ -6,6 +6,11 @@
     >pip install selenium
 
 ----------
+### LINK to Download a selenium Driver for CHROME Browsers<br>
+(choose your version browser. last number - not a important)
+
+        https://chromedriver.storage.googleapis.com/index.html
+-----------
 
 ### If have a problem like <br>
 "Error: “chromedriver” cannot be opened because the developer cannot be verified." <br>

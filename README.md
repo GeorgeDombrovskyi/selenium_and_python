@@ -1,4 +1,5 @@
 command for install selenium.
+
 	> pip install selenium
 
 link for download WebDriver (Chrome)
